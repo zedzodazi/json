@@ -1,12 +1,4 @@
 {
-    "meta": {
-        "page": 1,
-        "pages": 1,
-        "perpage": -1,
-        "total": 12,
-        "sort": "asc",
-        "field": "ID"
-    },
     "data": [
         {
             "ID": 1,
